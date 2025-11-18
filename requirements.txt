@@ -1,0 +1,5 @@
+PyMuPDF
+openpyxl
+pytesseract
+Pillow
+rapidfuzz

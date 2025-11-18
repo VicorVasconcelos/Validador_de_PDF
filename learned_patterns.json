@@ -1,0 +1,325 @@
+{
+  "BOCA DO ACRE": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763303347,
+    "auto_approve": true
+  },
+  "EIRUNEPE": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763303347,
+    "auto_approve": true
+  },
+  "PAUINI": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763303347,
+    "auto_approve": true
+  },
+  "AUTAZES": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763303347,
+    "auto_approve": true
+  },
+  "BARREIRINHA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763303347,
+    "auto_approve": true
+  },
+  "IPIXUNA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763301175
+  },
+  "ITAMARATI": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763301204
+  },
+  "BERURI": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763302864
+  },
+  "COARI": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763303741
+  },
+  "IRANDUBA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763303938
+  },
+  "ITACOATIARA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763305516
+  },
+  "MANACAPURU": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763311131
+  },
+  "MARAA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763313362
+  },
+  "MAUES": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763313403
+  },
+  "NHAMUNDA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763313662
+  },
+  "NOVO AIRAO": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763313787
+  },
+  "NOVO ARIPUANA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763313803
+  },
+  "PARINTINS": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763314182
+  },
+  "SILVES": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763314968
+  },
+  "UARINI": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763315351
+  },
+  "URUCARA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763315420
+  },
+  "APUI": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763315476
+  },
+  "ACRELANDIA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763316194
+  },
+  "RIO BRANCO": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763316466
+  },
+  "CRUZEIRO DO SUL": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763319220
+  },
+  "FEIJO": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763320312
+  },
+  "MARECHAL THAUMATURGO": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763320386
+  },
+  "SANTA ROSA DO PURUS": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763320409
+  },
+  "SENA MADUREIRA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763320432
+  },
+  "TARAUACA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763320610
+  },
+  "BOA VISTA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763321440
+  },
+  "UIRAMUTA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763323184
+  },
+  "MUCAJAI": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763323202
+  },
+  "PIMENTA BUENO": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763325031
+  },
+  "COSTA MARQUES": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763325110
+  },
+  "GUAJARA-MIRIM": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763325346
+  },
+  "ALVORADA D'OESTE": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763325458
+  },
+  "JI-PARANA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763326216
+  },
+  "MIRANTE DA SERRA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763326703
+  },
+  "PRESIDENTE MEDICI": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763326726
+  },
+  "PORTO VELHO": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763326975
+  },
+  "ARIQUEMES": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763327810
+  },
+  "BURITIS": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763328164
+  },
+  "CACOAL": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763328235
+  },
+  "ESPIGAO D'OESTE": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763328318
+  },
+  "NOVA BRASILANDIA D'OESTE": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763328904
+  },
+  "VILHENA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763329081
+  },
+  "AMAPA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763329175
+  },
+  "MACAPA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763329564
+  },
+  "LARANJAL DO JARI": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763332785
+  },
+  "MAZAGAO": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763333334
+  },
+  "SANTANA": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763333518
+  },
+  "CARAUARI": {
+    "always_force_ocr": true,
+    "psm": 6,
+    "scale": 4.0,
+    "last_seen": 1763398858
+  }
+}
